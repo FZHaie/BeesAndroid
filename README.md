@@ -105,5 +105,3 @@ Android是一个庞大的系统，Android Framework只是对系统的一个封�
 - [Android系统调试工具](https://www.yuque.com/beesx/beesandroid/mv93wu)
 
 欢迎关注我们
-
-![](https://cdn.nlark.com/yuque/0/2019/png/279116/1551701953269-7532e5fc-1d67-4659-ba67-fe92ef3b2d3f.png?x-oss-process=image%2Fresize%2Cw_1466#align=left&display=inline&height=800&name=image.png&originHeight=800&originWidth=2800&size=452660&status=done&width=2800)
